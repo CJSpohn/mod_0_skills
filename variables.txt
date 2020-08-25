@@ -1,0 +1,9 @@
+var food = "Pizza";
+var is_delicious = true;
+food = "Tacos";
+var num2 = 5;
+var num7 = 9;
+var quotient = num7/num2;
+var songs = ["In the Dark", "Pay the Road", "Love is All"];
+songs.shift();
+console.log(food.length);
